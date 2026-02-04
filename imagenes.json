@@ -1,0 +1,5 @@
+{
+  "imagenes": [
+    { "id": "img1", "archivo": "imagen1.jpg", "nombre": "Imagen 1" }
+  ]
+}
