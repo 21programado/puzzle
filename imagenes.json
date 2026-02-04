@@ -1,5 +1,6 @@
 {
   "imagenes": [
-    { "id": "img1", "archivo": "imagen1.jpg", "nombre": "Imagen 1" }
+    { "id": "img1", "archivo": "baterias73.jpg", "nombre": "Imagen 1" },
+    { "id": "img1", "archivo": "automovil.jpg", "nombre": "Imagen 1" }
   ]
 }
