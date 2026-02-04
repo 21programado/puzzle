@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+  font-family: system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  width: 100%;
+  max-width: 420px;
+  padding: 1rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+select {
+  width: 100%;
+  padding: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+#puzzle {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 2px;
+  background: #333;
+}
+
+.piece {
+  background-size: 300% 300%;
+  cursor: pointer;
+}
+
+.empty {
+  background: none;
+  cursor: default;
+}
