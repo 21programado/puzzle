@@ -8,6 +8,7 @@
     { "id": "img6", "archivo": "motociclista.jpg", "nombre": "Motociclista" },
     { "id": "img7", "archivo": "f1.jpg", "nombre": "Fórmula 1" },
     { "id": "img8", "archivo": "baloncesto.jpg", "nombre": "Baloncesto" },
-    { "id": "img9", "archivo": "futbol.jpg", "nombre": "Fútbol" }
+    { "id": "img9", "archivo": "futbol.jpg", "nombre": "Fútbol" },
+    { "id": "img10", "archivo": "tenis.jpg", "nombre": "Tenísta" }
   ]
 }
