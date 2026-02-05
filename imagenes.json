@@ -1,7 +1,9 @@
 {
   "imagenes": [
-    { "id": "img1", "archivo": "baterias73.jpg", "nombre": "Bateria" },
-    { "id": "img2", "archivo": "automovil.jpg", "nombre": "Automóvil" }
+    { "id": "img1", "archivo": "baterias73.jpg", "nombre": "Batería" },
+    { "id": "img2", "archivo": "automovil.jpg", "nombre": "Automóvil" },
+    { "id": "img3", "archivo": "tango.jpg", "nombre": "Tango" }
   ]
 }
+
 
