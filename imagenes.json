@@ -2,14 +2,15 @@
   "imagenes": [
     { "id": "img1", "archivo": "samurai.jpg", "nombre": "Samurái" },
     { "id": "img2", "archivo": "automovil.jpg", "nombre": "Automóvil" },
-    { "id": "img3", "archivo": "tango.jpg", "nombre": "Tango" },
-    { "id": "img4", "archivo": "payaso.jpg", "nombre": "Payaso" },
-    { "id": "img5", "archivo": "cerdo.jpg", "nombre": "Cerdo" },
-    { "id": "img6", "archivo": "motociclista.jpg", "nombre": "Motociclista" },
-    { "id": "img7", "archivo": "f1.jpg", "nombre": "Fórmula 1" },
-    { "id": "img8", "archivo": "baloncesto.jpg", "nombre": "Baloncesto" },
-    { "id": "img9", "archivo": "futbol.jpg", "nombre": "Fútbol" },
-    { "id": "img10", "archivo": "tenis.jpg", "nombre": "Tenísta" },
-    { "id": "img11", "archivo": "remero.jpg", "nombre": "Remero Olímpico" }
+    { "id": "img3", "archivo": "motociclista.jpg", "nombre": "Motociclista" },
+    { "id": "img4", "archivo": "f1.jpg", "nombre": "Fórmula 1" },
+    { "id": "img5", "archivo": "baloncesto.jpg", "nombre": "Baloncesto" },
+    { "id": "img6", "archivo": "futbol.jpg", "nombre": "Fútbol" },
+    { "id": "img7", "archivo": "tenis.jpg", "nombre": "Tenísta" },
+    { "id": "img8", "archivo": "remero.jpg", "nombre": "Remero Olímpico" },
+    { "id": "img9", "archivo": "esgrima.jpg", "nombre": "Esgrima" },
+    { "id": "img10", "archivo": "sumo.jpg", "nombre": "Sumo" },
+    { "id": "img11", "archivo": "kendo.jpg", "nombre": "Kendo" },
+    { "id": "img12", "archivo": "pesas.jpg", "nombre": "Pesas" }
   ]
 }
