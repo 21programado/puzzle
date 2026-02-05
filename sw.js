@@ -1,4 +1,4 @@
-const CACHE_NAME = 'rompecabezas-v1';
+const CACHE_NAME = 'rompecabezas-v2';
 
 const FILES_TO_CACHE = [
   './',
@@ -22,3 +22,4 @@ self.addEventListener('fetch', event => {
     })
   );
 });
+
