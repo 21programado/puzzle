@@ -1,6 +1,6 @@
 {
   "imagenes": [
-    { "id": "img1", "archivo": "bateria.jpg", "nombre": "Batería" },
+    { "id": "img1", "archivo": "samurai.jpg", "nombre": "Samurái" },
     { "id": "img2", "archivo": "automovil.jpg", "nombre": "Automóvil" },
     { "id": "img3", "archivo": "tango.jpg", "nombre": "Tango" },
     { "id": "img4", "archivo": "payaso.jpg", "nombre": "Payaso" },
@@ -9,6 +9,7 @@
     { "id": "img7", "archivo": "f1.jpg", "nombre": "Fórmula 1" },
     { "id": "img8", "archivo": "baloncesto.jpg", "nombre": "Baloncesto" },
     { "id": "img9", "archivo": "futbol.jpg", "nombre": "Fútbol" },
-    { "id": "img10", "archivo": "tenis.jpg", "nombre": "Tenísta" }
+    { "id": "img10", "archivo": "tenis.jpg", "nombre": "Tenísta" },
+    { "id": "img11", "archivo": "remero.jpg", "nombre": "Remero Olímpico" }
   ]
 }
