@@ -5,6 +5,7 @@
     { "id": "img3", "archivo": "tango.jpg", "nombre": "Tango" },
     { "id": "img4", "archivo": "payaso.jpg", "nombre": "Payaso" },
     { "id": "img5", "archivo": "cerdo.jpg", "nombre": "Cerdo" },
-    { "id": "img6", "archivo": "motociclista.jpg", "nombre": "Motociclista" }
+    { "id": "img6", "archivo": "motociclista.jpg", "nombre": "Motociclista" },
+    { "id": "img7", "archivo": "f1.jpg", "nombre": "Fórmula 1" }
   ]
 }
