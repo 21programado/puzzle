@@ -12,7 +12,9 @@
     { "id": "img10", "archivo": "sumo.jpg", "nombre": "Sumo" },
     { "id": "img11", "archivo": "kendo.jpg", "nombre": "Kendo" },
     { "id": "img12", "archivo": "pesas.jpg", "nombre": "Pesas" },
-    { "id": "img13", "archivo": "rugby.jpg", "nombre": "Rugby" }
+    { "id": "img13", "archivo": "rugby.jpg", "nombre": "Rugby" },
+    { "id": "img14", "archivo": "ballet.jpg", "nombre": "Ballet" }
   ]
 }
+
 
